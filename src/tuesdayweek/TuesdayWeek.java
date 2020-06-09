@@ -20,6 +20,7 @@ public class TuesdayWeek {
        System.out.println("learning push operations +fetch"); 
         System.out.println("learning pull operations +fetch"); 
         System.out.println("learning fetch operation +merge "); 
+        //fetch +merge
     }
     
 }
