@@ -17,6 +17,7 @@ public class TuesdayWeek {
     public static void main(String[] args) 
     {
        System.out.println("learning push operations");
+       System.out.println("learning push operations +fetch"); 
     }
     
 }
