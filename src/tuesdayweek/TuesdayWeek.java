@@ -22,7 +22,7 @@ public class TuesdayWeek {
         System.out.println("learning fetch operation +merge "); 
         //fetch +merge
         //This is my branch and edited in remote repository
-        //second branch
+        //second branch edited in github
     }
     
 }
